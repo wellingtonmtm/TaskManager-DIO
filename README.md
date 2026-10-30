@@ -1,1 +1,1 @@
-Projeto feito em Java + Spring para o bootcamp Itau - Java com IA na DIO.
+Projeto feito em Java + Spring (Repository) para o bootcamp Itau - Java com IA na DIO.
